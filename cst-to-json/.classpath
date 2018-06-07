@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_171"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/dev/eclipse_gas/cst-to-json/lib/apache-jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="D:/dev/eclipse_gas/cst-to-json/lib/com.springsource.org.apache.regexp-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/dev/eclipse_gas/cst-to-json/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/dev/eclipse_gas/cst-to-json/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/dev/eclipse_gas/cst-to-json/lib/xerces-j_1.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
